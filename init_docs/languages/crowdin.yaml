@@ -1,0 +1,9 @@
+files:
+  -
+    source: '/init_docs/languages/English.txt
+    translation: '/init_docs/languages/%locale%.txt
+    languages_mapping:
+      locale:
+        'ar': 'Arabic'
+        'es-ES': 'Spanish'
+        'ur-PK': 'Urdu (Pakistan)'
