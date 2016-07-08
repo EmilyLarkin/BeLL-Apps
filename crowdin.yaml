@@ -1,0 +1,4 @@
+files:
+  - 
+    source: /init_docs/languages/English.txt
+    translation: '/init_docs/languages/%locale%.txt'
